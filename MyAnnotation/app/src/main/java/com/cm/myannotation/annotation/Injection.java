@@ -3,9 +3,6 @@ package com.cm.myannotation.annotation;
 import android.app.Activity;
 import android.util.Log;
 import android.view.View;
-
-import com.cm.myannotation.MainActivity;
-
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
